@@ -1,0 +1,10 @@
+body {
+	padding-top: 60px;
+}
+
+.col-tutorial {
+	border: 3px solid #0099CC;
+	border-radius: 25px;
+	padding: 2%;
+	margin-bottom: 0.5em;
+}
